@@ -14,7 +14,6 @@ export default function App() {
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView>
-        {/* <StatusBar style='light' /> */}
         <Home />
         <Form />
         <Certification />
