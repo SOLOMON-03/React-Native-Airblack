@@ -18,10 +18,22 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/Image/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.solomon.airblack"
     },
     "web": {
       "favicon": "./assets/Image/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4051b182-2718-42ac-970c-4ec652a4b122"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/4051b182-2718-42ac-970c-4ec652a4b122"
     }
   }
 }
